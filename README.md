@@ -1,10 +1,8 @@
 chef-simple-overrides
 =====================
-
 Simple step by step of how chef overrides work.
-
 Overrides in Chef
-=========
+========
 
 1) Create the 3 recipes
 ----
