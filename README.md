@@ -1,6 +1,9 @@
 chef-simple-overrides
 =====================
-Simple step by step of how chef overrides work.
+Simple step by step of how chef overrides work.  This shows 3 recipes where one overrides an attribute of the other.
+Can be used where you have a need for a common set of attributes, then a child set of overrides.
+E.g. a Car is common, BMW is the child, 2014 BMW's is the child of BMW.
+
 Overrides in Chef
 ========
 
