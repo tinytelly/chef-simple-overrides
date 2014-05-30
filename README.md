@@ -37,6 +37,7 @@ end
 ```
 4)Added the client recipe
 ----
+Note here we use node.override to override a default attribute
 ```
 vi cookbooks/test_client_x/recipes/default.rb
 ```
@@ -52,6 +53,7 @@ end
 
 5) Add the environment recipe
 ----
+Note here we use node.override to override a default attribute
 ```
 vi cookbooks/test_environment_x/recipes/default.rb
 ```
