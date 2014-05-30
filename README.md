@@ -15,7 +15,7 @@ knife cookbook create test_client_x
 knife cookbook create test_environment_x
 ```
 
-2) Add the common variables
+2) Add the common attributes
 ----
 ```
 vi cookbooks/test_common/attributes/default.rb
