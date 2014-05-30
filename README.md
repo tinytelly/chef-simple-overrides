@@ -35,7 +35,7 @@ execute 'echo the path attribute' do
 command "echo #{node['test_common']['version']}"
 end
 ```
-4)Added the client recipe
+4)Add the client recipe
 ----
 Note here we use node.override to override a default attribute
 ```
